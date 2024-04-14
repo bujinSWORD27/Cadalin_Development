@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Machine_Regular';
+    src: url('../fonts/Machine_Regular.ttf') format('truetype');
+  }
+  
+  .body{
+    font-family: 'Machine_Regular';
+    font-size: '30px';
+  }
